@@ -189,3 +189,4 @@ For Flight B: PB=1 and FB=3
 
 For Flight C: PC=1 and FC=2
 
+IBM. (2019). ILOG CPLEX Optimization Studio - Overview. Ibm.com. https://www.ibm.com/products/ilog-cplex-optimization-studio
