@@ -4,6 +4,7 @@ Airlines need to assign pilots and flight attendants to flights while ensuring t
 
 Given the constraints on working hours and rest periods, the airline needs to minimize the cost of crew assignments while satisfying the required crew availability for each flight.
 
+
 Data and Assumptions:
 
 Pilot Wage: $300 per flight
@@ -20,6 +21,7 @@ Flight B: 1 Pilot, 3 Flight Attendants
 
 Flight C: 1 Pilot, 2 Flight Attendants
 
+
 Constraints:
 
 Pilot Work Hours: A pilot can work a maximum of 8 hours per day.
@@ -27,6 +29,7 @@ Pilot Work Hours: A pilot can work a maximum of 8 hours per day.
 Flight Attendant Work Hours: A flight attendant can work a maximum of 8 hours per day.
 
 Crew Rest Period: A pilot and flight attendant must have at least 10 hours of rest between shifts.
+
 
 Objective Function:
 
