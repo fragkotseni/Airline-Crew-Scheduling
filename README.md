@@ -23,9 +23,13 @@ Flight C: 1 Pilot, 2 Flight Attendants
 Constraints:
 
 Pilot Work Hours: A pilot can work a maximum of 8 hours per day.
+
 Flight Attendant Work Hours: A flight attendant can work a maximum of 8 hours per day.
+
 Crew Rest Period: A pilot and flight attendant must have at least 10 hours of rest between shifts.
+
 Objective Function:
+
 Minimize the total cost of crew assignments, where the cost is calculated based on the number of pilots and flight attendants assigned to flights.
 
 Linear Programming Model
