@@ -36,12 +36,17 @@ Objective Function:
 Minimize the total cost of crew assignments, where the cost is calculated based on the number of pilots and flight attendants assigned to flights.
 
 Linear Programming Model
+
 Objective Function:
+
 Minimize the total cost of pilots and flight attendants: 
+
 Minimize
- 
+
 𝐶
+
 =
+
 300
 ⋅
 𝑃
