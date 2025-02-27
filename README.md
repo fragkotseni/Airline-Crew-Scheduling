@@ -177,7 +177,6 @@ C
 Rest Period: Each pilot and flight attendant must have at least 10 hours rest: This can be represented by ensuring no overlap in the work hours or by modeling specific timing between shifts.
 
 Flight Crew Requirements: For each flight, we need the specified number of pilots and flight attendants:
-
 For Flight A: 
 𝑃
 𝐴
