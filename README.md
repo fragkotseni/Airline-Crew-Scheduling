@@ -179,6 +179,8 @@ Rest Period: Each pilot and flight attendant must have at least 10 hours rest: T
 Flight CRew Requirements: For each flight, we need the specified number of pilots and flight attendants:
 
 For Flight A: PA=1 and FA =2
+
 For Flight B: PB=1 and FB=3
+
 For Flight C: PC=1 and FC=2
 
