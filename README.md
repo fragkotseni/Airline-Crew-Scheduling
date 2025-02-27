@@ -71,6 +71,7 @@ Minimize
 ⋅
 𝐹
 𝐶
+
 MinimizeC=300⋅P 
 A
 ​
